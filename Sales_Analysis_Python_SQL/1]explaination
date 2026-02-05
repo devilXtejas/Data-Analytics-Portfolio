@@ -1,0 +1,15 @@
+🧠 HOW TO EXPLAIN THIS PROJECT IN INTERVIEWS (VERY IMPORTANT)
+🔹 30-Second Explanation
+
+“I built a Job Portal Applicant Tracking System using MySQL and Python.
+I designed a relational database to manage companies, jobs, candidates, and applications.
+I used SQL joins, subqueries, and transactions to ensure data consistency.
+Then I connected MySQL with Python, analyzed the data using pandas, and created visual insights using matplotlib.”
+
+🔹 If interviewer asks: Why this project?
+
+“It's a real-world system similar to what HR platforms use, and it helped me practice SQL transactions, Python integration, and data analysis together.”
+
+🔹 If interviewer asks: What was challenging?
+
+“Handling SQL transactions and integrating Python with MySQL while maintaining clean data flow.”
